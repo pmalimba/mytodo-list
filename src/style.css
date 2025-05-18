@@ -112,3 +112,6 @@ input {
 .addBtn:hover {
   background-color: #bbb;
 }
+.footer {
+  font-size: 5px;
+}
